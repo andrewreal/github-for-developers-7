@@ -1,4 +1,5 @@
- - [ ] Andrew Real
- - [ ] UK
- - [ ] Indian
- - [ ] Music
+ - [ ] Name : Andrew Real
+ - [ ] Location : UK
+ - [ ] Favorite Food : Indian
+ - [ ] Hobby : Making music
+ - [ ] Favorite Color : Blue
